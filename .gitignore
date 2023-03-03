@@ -1,0 +1,67 @@
+# =============== #
+# Unity generated #
+# =============== #
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Pp]ackages/packages-lock.json
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ee]executable/
+/Assets/AssetStoreTools*
+/*.zip
+sysinfo.txt
+*.stackdump
+*.*~
+
+# Unity3D generated meta files
+*.pidb.meta
+ 
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+.vsconfig
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+.consulo/
+*.tmp
+*.userprefs
+*.svd
+/.idea*/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Tt]humbs.db.meta
+[Dd]esktop.ini
+
+
+
+#
+# Keep TextMesh Pro out of repository
+# 
+Assets/TextMesh\ Pro
+
+*.apk
